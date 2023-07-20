@@ -1,5 +1,12 @@
+<h2 align="center">Hey there, I'm Jason</a> <img src="https://github.com/Jeicrow/Jeicrow/assets/64804177/f65bbcaf-1d90-48aa-bffe-4db39e63e3d4" width="28" /> </h3>
+
+<p align="center">
+<a href="#"><img src="https://github.com/Jeicrow/Jeicrow/assets/64804177/1890d993-af08-4ee7-b9ff-446f5ee4ee61" height="100%" width="100%" /></a>
+</p>
+
 # 💫 About Me:
 Hello! I'm Jeison, a passionate 25 year old programmer. I love diving into the world of software development, seeking creative solutions for technical challenges. With experience in multiple programming languages and a focus on web development, I enjoy building applications that combine functionality and elegant design. Additionally, I'm a Linux enthusiast with a special love for my favorite operating system, Arch Linux. I'm fascinated by its flexibility and the "do it yourself" philosophy. I'm always looking to learn and grow to further expand my knowledge.
+<a href="https://archlinux.org/"><img src="https://i.postimg.cc/8zbXyg1X/1200px-Arch-Linux-logo-svg.png" height="20%" width="20%"></a>
 
 
 ## 🌐 Socials:
