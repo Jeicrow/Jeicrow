@@ -1,7 +1,7 @@
 <h2 align="center">Hey there, I'm Jason</a> <img src="https://github.com/Jeicrow/Jeicrow/assets/64804177/f65bbcaf-1d90-48aa-bffe-4db39e63e3d4" width="28" /> </h3>
 
 <p align="center">
-<a href="#"><img src="https://github.com/Jeicrow/Jeicrow/assets/64804177/1890d993-af08-4ee7-b9ff-446f5ee4ee61" height="100%" width="100%" /></a>
+<a href="#"><img src="https://github.com/Jeicrow/Jeicrow/assets/64804177/1890d993-af08-4ee7-b9ff-446f5ee4ee61" height="800px" width="1000px" /></a>
 </p>
 
 # 💫 About Me:
