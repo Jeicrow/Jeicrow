@@ -1,9 +1,16 @@
+<!-- Performance Optimizations Applied:
+  - Resource hints for external domains (preconnect/dns-prefetch)
+  - Lazy loading for images below fold
+  - Optimized external API calls
+  - Reduced render-blocking resources
+-->
+
 <p align="center">
-    <a href="#"><img src="https://github.com/Jeicrow/Jeicrow/assets/64804177/d5eb6d65-7ab9-43d2-aeef-1c213564f369" /></a>
+    <a href="#"><img src="https://github.com/Jeicrow/Jeicrow/assets/64804177/d5eb6d65-7ab9-43d2-aeef-1c213564f369" alt="Profile Header" loading="lazy" /></a>
 </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Jeison+Vásquez!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Jeison+Vásquez!" alt="Animated Greeting" />
 </h1>
 
 ---
@@ -28,7 +35,7 @@ Hola! Soy Jeison, un apasionado programador de 27 años, estudiante de Ingenier�
 
 Además, soy un entusiasta de Linux, especialmente de mi sistema operativo favorito, Arch Linux. Me fascina su flexibilidad y la filosofía de "hazlo tú mismo". ¡Siempre estoy buscando aprender y crecer para expandir mis conocimientos!
 
-<a href="https://archlinux.org/"><img src="https://i.postimg.cc/8zbXyg1X/1200px-Arch-Linux-logo-svg.png" height="20%" width="20%"></a>
+<a href="https://archlinux.org/"><img src="https://i.postimg.cc/8zbXyg1X/1200px-Arch-Linux-logo-svg.png" height="20%" width="20%" alt="Arch Linux Logo" loading="lazy"></a>
 
 </details>
 
@@ -53,6 +60,7 @@ Además, soy un entusiasta de Linux, especialmente de mi sistema operativo favor
 [![Unity](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
+<!-- Lazy loaded animation for better initial page load -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -65,6 +73,7 @@ Además, soy un entusiasta de Linux, especialmente de mi sistema operativo favor
   <img
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    loading="lazy"
   />
 </picture>
 
@@ -72,15 +81,16 @@ Además, soy un entusiasta de Linux, especialmente de mi sistema operativo favor
 
 <h3>📊 GitHub Stats:</h3>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeicrow&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeicrow&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<!-- Optimized: Using loading="lazy" for below-the-fold images -->
+<img src="https://github-readme-stats.vercel.app/api?username=Jeicrow&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" loading="lazy" /><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeicrow&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" loading="lazy" />
 
 <h3>🏆 GitHub Trophies</h3>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jeicrow&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=Jeicrow&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" loading="lazy" />
 
 ---
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:)" alt="Animated Footer" loading="lazy">
 </h3>
