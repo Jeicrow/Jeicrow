@@ -1,24 +1,29 @@
 <div align="center">
-  <img src="https://github.com/Jeicrow/Jeicrow/assets/64804177/d5eb6d65-7ab9-43d2-aeef-1c213564f369" width="100%" style="border-radius: 10px;" alt="Banner" />
+  <img src="https://github.com/Jeicrow/Jeicrow/assets/64804177/d5eb6d65-7ab9-43d2-aeef-1c213564f369" width="100%" style="border-radius: 12px; box-shadow: 0px 5px 15px rgba(0,0,0,0.5);" alt="Banner Jeicrow" />
 
-  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Jeison+Vásquez!" alt="Typing SVG" />
-  </h1>
+  <br/><br/>
 
-  <p>
-    <a href="https://instagram.com/jeicrow">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  <a href="https://github.com/Jeicrow">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=600&height=70&duration=3500&lines=Hello+There!+👋;I'm+Jeison+Vásquez!;Crafting+Code+&+Solutions...;Arch+Linux+Enthusiast+🐧" alt="Typing Intro" />
+  </a>
+
+  <p style="font-size: 1.2em; color: #8b949e;">
+    Ingeniero en formación | Desarrollador de Software | Amante del Open Source
+  </p>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/jeison-vasquez" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://linkedin.com/in/jeison-vasquez">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://instagram.com/jeicrow" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
-    <a href="https://github.com/Jeicrow">
-      <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+     <a href="https://github.com/Jeicrow" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
     </a>
   </p>
-  
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Jeicrow&icon=5&color=0" alt="Visit Count" />
+    <img src="https://visitcount.itsvg.in/api?id=Jeicrow&icon=2&color=6" alt="Contador de visitas" height="25px"/>
   </a>
 </div>
 
@@ -26,62 +31,65 @@
 
 ### ⚡ Sobre mí
 
-> *Ingeniero en formación, apasionado por el código y la filosofía Open Source.*
+> *"La simplicidad es la máxima sofisticación."*
 
-¡Hola! Soy **Jeison**, un desarrollador de 27 años y estudiante de **Ingeniería en Ejecución en Computación e Informática** en la UCM. Me especializo en crear soluciones creativas para desafíos técnicos, con un fuerte enfoque en el desarrollo web y la arquitectura de software.
+¡Hola! Soy **Jeison**, un apasionado desarrollador de 27 años y estudiante de **Ingeniería en Ejecución en Computación e Informática** en la UCM.
 
-🐧 **Linux Enthusiast:** Soy usuario orgulloso de **Arch Linux**. Me fascina su flexibilidad y la filosofía *KISS (Keep It Simple, Stupid)*.
+Me impulsa el desafío de transformar problemas complejos en soluciones de software elegantes y funcionales. Mi enfoque actual se centra en la arquitectura de software y el desarrollo web full-stack, siempre buscando el equilibrio entre rendimiento y diseño limpio.
+
+🐧 **El Toque Personal:** Fuera del código, soy un entusiasta del ecosistema Linux. Como usuario orgulloso de **Arch Linux**, valoro la flexibilidad, el minimalismo y la filosofía de "hazlo tú mismo" (DIY) que ofrece este sistema.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Arsenalo Tecnológico
+
+*Un conjunto de herramientas moderno y limpio para construir el futuro.*
 
 <div align="center">
 
-| **Lenguajes** | **Frameworks & Libs** | **Cloud & Infra** | **Herramientas** |
-| :---: | :---: | :---: | :---: |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) | ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white) |
-| ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) |  |  |
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) |  |  |
-| ![JS](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) | | | |
+| **Lenguajes Principales** | **Backend & Frameworks** |
+| :---: | :---: |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,java,python,go,js,php&theme=dark" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,unity,bootstrap,jquery,opencv&theme=dark" /></a> |
+
+| **Nube & Infraestructura** | **Herramientas & SO** |
+| :---: | :---: |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,gcp,oracle&theme=dark" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,linux,arch,neovim&theme=dark" /></a> |
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Actividad en GitHub
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Jeicrow&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Jeicrow&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeicrow&theme=dark&hide_border=true&layout=compact&langs_count=6" height="180" alt="Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeicrow&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="180" alt="Top Languages" />
       </td>
     </tr>
   </table>
   
-  <br>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=Jeicrow&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jeicrow&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
 </div>
 
-<br>
+<br/>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:)" alt="Footer" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=22&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Thanks+for+visiting!+✌️;Let's+build+something+amazing+together." alt="Footer CTA" />
+  <br/>
 </div>
