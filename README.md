@@ -4,7 +4,7 @@
   <br/><br/>
 
   <a href="https://github.com/Jeicrow">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=3500&lines=Hello+There!+👋;I'm+Jeison+Vásquez!;Software+Developer+🚀;Arch+Linux+User+🐧" alt="Typing Intro" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=3500&lines=Hello+There!+👋;I'm+Jeicrow!;Software+Developer+🚀;Arch+Linux+User+🐧" alt="Typing Intro" />
   </a>
 
   <p align="center">
