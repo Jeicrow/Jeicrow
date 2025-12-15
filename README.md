@@ -4,7 +4,7 @@
   <br/><br/>
 
   <a href="https://github.com/Jeicrow">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=3500&lines=Hello+There!+👋;I'm+Jeicrow!;Software+Developer+🚀;Arch+Linux+User+🐧" alt="Typing Intro" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=3500&lines=Hello+There!+👋;I'm+Jeison+Vásquez!;Software+Developer+🚀;Arch+Linux+User+🐧" alt="Typing Intro" />
   </a>
 
   <p align="center">
@@ -19,9 +19,7 @@
     </a>
   </p>
   
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Jeicrow&icon=2&color=6" alt="Contador de visitas" height="25px"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Jeicrow&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
@@ -38,9 +36,9 @@ Me especializo en arquitectura de software y desarrollo web full-stack. Busco si
 
 ---
 
-### 🛠️ Arsenalo Tecnológico
+### 🛠️ Arsenal Tecnológico
 
-*Haz clic en los iconos para visitar su documentación oficial.*
+*Haz clic en los iconos para ver la documentación oficial.*
 
 <div align="center">
 
