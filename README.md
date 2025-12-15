@@ -1,15 +1,7 @@
 <div align="center">
   <img src="https://github.com/Jeicrow/Jeicrow/assets/64804177/d5eb6d65-7ab9-43d2-aeef-1c213564f369" width="100%" style="border-radius: 12px; box-shadow: 0px 5px 15px rgba(0,0,0,0.5);" alt="Banner Jeicrow" />
-
-  <br/><br/>
-
-  <a href="https://github.com/Jeicrow">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=600&height=70&duration=3500&lines=Hello+There!+👋;I'm+Jeison+Vásquez!;Crafting+Code+&+Solutions...;Arch+Linux+Enthusiast+🐧" alt="Typing Intro" />
-  </a>
-
-  <p style="font-size: 1.2em; color: #8b949e;">
-    Ingeniero en formación | Desarrollador de Software | Amante del Open Source
-  </p>
+  <h1 align="center" style="color: #58a6ff;">I'm Jeison Vásquez</h1>
+  <p align="center" style="font-size: 1.1em; color: #8b949e;">Ingeniero en formación | Desarrollador de Software | Amante del Open Source</p>
 
   <p align="center">
     <a href="https://linkedin.com/in/jeison-vasquez" target="_blank">
@@ -18,7 +10,7 @@
     <a href="https://instagram.com/jeicrow" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
-     <a href="https://github.com/Jeicrow" target="_blank">
+    <a href="https://github.com/Jeicrow" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
     </a>
   </p>
