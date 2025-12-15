@@ -1,86 +1,87 @@
-<p align="center">
-    <a href="#"><img src="https://github.com/Jeicrow/Jeicrow/assets/64804177/d5eb6d65-7ab9-43d2-aeef-1c213564f369" /></a>
-</p>
+<div align="center">
+  <img src="https://github.com/Jeicrow/Jeicrow/assets/64804177/d5eb6d65-7ab9-43d2-aeef-1c213564f369" width="100%" style="border-radius: 10px;" alt="Banner" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Jeison+Vásquez!" />
-</h1>
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Jeison+Vásquez!" alt="Typing SVG" />
+  </h1>
 
----
-
-<table align="right">
-<tr>
-<td>
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jeicrow) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeison-vasquez) 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/Jeicrow)
-[![](https://visitcount.itsvg.in/api?id=Jeicrow&icon=5&color=0)](https://visitcount.itsvg.in)
-
-</td>
-</tr>
-</table>
-
-<details>
-  <summary>:zap: <h3>💫 Sobre mí:</h3></summary>
-
-Hola! Soy Jeison, un apasionado programador de 27 años, estudiante de Ingeniería en Ejecución en Computación e Informática en la Universidad Católica del Maule. Me encanta explorar el mundo del desarrollo de software, creando soluciones creativas para desafíos técnicos. Con experiencia en varios lenguajes de programación y un enfoque en desarrollo web, disfruto construir aplicaciones que combinan funcionalidad y diseño elegante.
-
-Además, soy un entusiasta de Linux, especialmente de mi sistema operativo favorito, Arch Linux. Me fascina su flexibilidad y la filosofía de "hazlo tú mismo". ¡Siempre estoy buscando aprender y crecer para expandir mis conocimientos!
-
-<a href="https://archlinux.org/"><img src="https://i.postimg.cc/8zbXyg1X/1200px-Arch-Linux-logo-svg.png" height="20%" width="20%"></a>
-
-</details>
+  <p>
+    <a href="https://instagram.com/jeicrow">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://linkedin.com/in/jeison-vasquez">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/Jeicrow">
+      <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+  
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Jeicrow&icon=5&color=0" alt="Visit Count" />
+  </a>
+</div>
 
 ---
 
-<h3>💻 Tech Stack:</h3>
+### ⚡ Sobre mí
 
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/)
-[![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/)
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
-[![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
-[![Unity](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+> *Ingeniero en formación, apasionado por el código y la filosofía Open Source.*
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+¡Hola! Soy **Jeison**, un desarrollador de 27 años y estudiante de **Ingeniería en Ejecución en Computación e Informática** en la UCM. Me especializo en crear soluciones creativas para desafíos técnicos, con un fuerte enfoque en el desarrollo web y la arquitectura de software.
+
+🐧 **Linux Enthusiast:** Soy usuario orgulloso de **Arch Linux**. Me fascina su flexibilidad y la filosofía *KISS (Keep It Simple, Stupid)*.
 
 ---
 
-<h3>📊 GitHub Stats:</h3>
+### 🛠️ Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeicrow&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeicrow&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
 
-<h3>🏆 GitHub Trophies</h3>
+| **Lenguajes** | **Frameworks & Libs** | **Cloud & Infra** | **Herramientas** |
+| :---: | :---: | :---: | :---: |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) | ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white) |
+| ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) |  |  |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) |  |  |
+| ![JS](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) | | | |
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jeicrow&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+</div>
 
 ---
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:)">
-</h3>
+### 📊 GitHub Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Jeicrow&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeicrow&theme=dark&hide_border=true&layout=compact&langs_count=6" height="180" alt="Languages" />
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Jeicrow&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:)" alt="Footer" />
+</div>
