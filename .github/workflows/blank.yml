@@ -1,0 +1,39 @@
+name: Generate Snake
+
+on:
+  # Se ejecuta automáticamente cada 24 horas
+  schedule:
+    - cron: "0 0 * * *" 
+  
+  # Permite que lo ejecutes manualmente clickeando en "Run workflow"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    # Permisos necesarios para que el bot pueda guardar la imagen en tu perfil
+    permissions:
+      contents: write
+    
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generar la serpiente
+        uses: Platane/snk@v3
+        with:
+          # Tu usuario de GitHub
+          github_user_name: Jeicrow
+          
+          # Genera las imágenes (modo claro y oscuro)
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            
+      - name: Publicar la imagen
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
