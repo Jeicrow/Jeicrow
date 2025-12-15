@@ -19,7 +19,7 @@
     </a>
   </p>
   
-  <img src="https://komarev.com/ghpvc/?username=Jeicrow&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeicrow&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" alt="Hits"/>
 </div>
 
 ---
@@ -71,7 +71,7 @@ Me especializo en arquitectura de software y desarrollo web full-stack. Busco si
   <br/>
   
   <a href="https://github.com/Jeicrow">
-    <img src="https://github-profile-trophy.vercel.app/?username=Jeicrow&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeicrow&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 
