@@ -1,7 +1,11 @@
 <div align="center">
   <img src="https://github.com/Jeicrow/Jeicrow/assets/64804177/d5eb6d65-7ab9-43d2-aeef-1c213564f369" width="100%" style="border-radius: 12px; box-shadow: 0px 5px 15px rgba(0,0,0,0.5);" alt="Banner Jeicrow" />
-  <h1 align="center" style="color: #58a6ff;">I'm Jeison Vásquez</h1>
-  <p align="center" style="font-size: 1.1em; color: #8b949e;">Ingeniero en formación | Desarrollador de Software | Amante del Open Source</p>
+
+  <br/><br/>
+
+  <a href="https://github.com/Jeicrow">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=3500&lines=Hello+There!+👋;I'm+Jeison+Vásquez!;Software+Developer+🚀;Arch+Linux+User+🐧" alt="Typing Intro" />
+  </a>
 
   <p align="center">
     <a href="https://linkedin.com/in/jeison-vasquez" target="_blank">
@@ -14,6 +18,7 @@
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
     </a>
   </p>
+  
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=Jeicrow&icon=2&color=6" alt="Contador de visitas" height="25px"/>
   </a>
@@ -27,25 +32,21 @@
 
 ¡Hola! Soy **Jeison**, un apasionado desarrollador de 27 años y estudiante de **Ingeniería en Ejecución en Computación e Informática** en la UCM.
 
-Me impulsa el desafío de transformar problemas complejos en soluciones de software elegantes y funcionales. Mi enfoque actual se centra en la arquitectura de software y el desarrollo web full-stack, siempre buscando el equilibrio entre rendimiento y diseño limpio.
+Me especializo en arquitectura de software y desarrollo web full-stack. Busco siempre el equilibrio entre un código limpio, rendimiento eficiente y una experiencia de usuario fluida.
 
-🐧 **El Toque Personal:** Fuera del código, soy un entusiasta del ecosistema Linux. Como usuario orgulloso de **Arch Linux**, valoro la flexibilidad, el minimalismo y la filosofía de "hazlo tú mismo" (DIY) que ofrece este sistema.
+🐧 **Linux Enthusiast:** Fuera del código, soy usuario orgulloso de **Arch Linux**, valorando su filosofía minimalista y la libertad de personalización.
 
 ---
 
 ### 🛠️ Arsenalo Tecnológico
 
-*Un conjunto de herramientas moderno y limpio para construir el futuro.*
+*Haz clic en los iconos para visitar su documentación oficial.*
 
 <div align="center">
 
-| **Lenguajes Principales** | **Backend & Frameworks** |
-| :---: | :---: |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,java,python,go,js,php&theme=dark" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,unity,bootstrap,jquery,opencv&theme=dark" /></a> |
-
-| **Nube & Infraestructura** | **Herramientas & SO** |
-| :---: | :---: |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,gcp,oracle&theme=dark" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,linux,arch,neovim&theme=dark" /></a> |
+| **Lenguajes** | **Frameworks & Libs** | **Cloud & Herramientas** |
+| :---: | :---: | :---: |
+| <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="45"/></a> <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="45"/></a> <br/> <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="45"/></a> <a href="https://go.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=go&theme=dark" width="45"/></a> <br/> <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="45"/></a> <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="45"/></a> | <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="45"/></a> <a href="https://unity.com/" target="_blank"><img src="https://skillicons.dev/icons?i=unity&theme=dark" width="45"/></a> <br/> <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="45"/></a> <a href="https://jquery.com/" target="_blank"><img src="https://skillicons.dev/icons?i=jquery&theme=dark" width="45"/></a> <br/> <a href="https://opencv.org/" target="_blank"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="45"/></a> | <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="45"/></a> <a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="45"/></a> <br/> <a href="https://www.oracle.com/" target="_blank"><img src="https://skillicons.dev/icons?i=oracle&theme=dark" width="45"/></a> <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="45"/></a> <br/> <a href="https://archlinux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=arch&theme=dark" width="45"/></a> <a href="https://neovim.io/" target="_blank"><img src="https://skillicons.dev/icons?i=neovim&theme=dark" width="45"/></a> |
 
 </div>
 
@@ -57,24 +58,32 @@ Me impulsa el desafío de transformar problemas complejos en soluciones de softw
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Jeicrow&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="GitHub Stats" />
+        <a href="https://github.com/Jeicrow">
+          <img src="https://github-readme-stats.vercel.app/api?username=Jeicrow&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="170" alt="GitHub Stats" />
+        </a>
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeicrow&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="180" alt="Top Languages" />
+        <a href="https://github.com/Jeicrow">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeicrow&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="170" alt="Top Languages" />
+        </a>
       </td>
     </tr>
   </table>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=Jeicrow&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+  <br/>
+  
+  <a href="https://github.com/Jeicrow">
+    <img src="https://github-profile-trophy.vercel.app/?username=Jeicrow&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeicrow/Jeicrow/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jeicrow/Jeicrow/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jeicrow/Jeicrow/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </div>
 
@@ -82,6 +91,5 @@ Me impulsa el desafío de transformar problemas complejos en soluciones de softw
 
 <div align="center">
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=22&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Thanks+for+visiting!+✌️;Let's+build+something+amazing+together." alt="Footer CTA" />
-  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Thanks+for+visiting!+✌️;Let's+collaborate+on+LinkedIn!" alt="Footer" />
 </div>
