@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a11fc699-30be-4783-b9b7-a188e6152c9f" width="100%" style="border-radius: 4px; filter: contrast(1.1) brightness(0.9);" alt="Gothic Banner" />
-
+  <img src="https://github.com/user-attachments/assets/b553807e-9303-4719-9240-0c9180306a89" width="100%" style="border-radius: 4px; filter: contrast(1.1) brightness(0.9);" alt="Gothic Banner" />
+  
   <br/><br/>
 
   <a href="https://github.com/Jeicrow">
