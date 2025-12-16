@@ -20,21 +20,10 @@
       <img src="https://skillicons.dev/icons?i=discord&theme=dark" height="38" alt="Discord"/>
     </a>
     &nbsp;
-    <a href="https://stackoverflow.com/users/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark" height="38" alt="Stack Overflow"/>
-    </a>
-    &nbsp;
     <a href="https://instagram.com/jeicrow" target="_blank">
       <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="38" alt="Instagram"/>
     </a>
     &nbsp;
-    <a href="https://twitter.com/jeicrow" target="_blank">
-      <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="38" alt="X"/>
-    </a>
-    &nbsp;
-    <a href="https://github.com/Jeicrow" target="_blank">
-      <img src="https://skillicons.dev/icons?i=github&theme=dark" height="38" alt="GitHub"/>
-    </a>
   </p>
   
   <img src="https://komarev.com/ghpvc/?username=Jeicrow&style=flat-square&color=8a0303&label=LOST+SOULS" alt="Profile Views" />
