@@ -4,7 +4,7 @@
   <br/><br/>
 
   <a href="https://github.com/Jeicrow">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Cinzel&size=32&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Welcome+to+my+Digital+Crypt...;I'm+Jeison+Vásquez;Coding+in+Deep+Shadows...;Arch+Linux+Enthusiast+🕸️" alt="Gothic Intro" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Cinzel&size=32&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Welcome+to+my+Digital+Crypt...;I'm+Jeicrow;Coding+in+Deep+Shadows...;Arch+Linux+Enthusiast+🕸️" alt="Gothic Intro" />
   </a>
 
   <p align="center">
@@ -50,7 +50,7 @@
 
 > *"In the deep shadows and brilliant highlights..."*
 
-Greetings. I am **Jeison**, a 27-year-old developer forging my path in **Computer Engineering** at UCM. 
+Greetings. I am **Jeison**, a 28-year-old developer forging my path in **Computer Engineering** at UCM. 
 
 My code exists between the darkness of the backend and the light of the frontend. I specialize in clean software architecture, always seeking the perfect balance between aesthetics and performance.
 
