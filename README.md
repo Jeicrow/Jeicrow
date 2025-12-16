@@ -8,8 +8,20 @@
   </a>
 
 <p align="center">
+    <a href="mailto:jeisonr.vasquez@gmail.com" target="_blank">
+      <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="45" alt="Email"/>
+    </a>
+    &nbsp;
     <a href="https://linkedin.com/in/jeison-vasquez" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45" alt="LinkedIn"/>
+    </a>
+    &nbsp;
+    <a href="https://discord.com/users/jeicrow" target="_blank">
+      <img src="https://skillicons.dev/icons?i=discord&theme=dark" height="45" alt="Discord"/>
+    </a>
+    &nbsp;
+    <a href="https://stackoverflow.com/users/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark" height="45" alt="Stack Overflow"/>
     </a>
     &nbsp;
     <a href="https://instagram.com/jeicrow" target="_blank">
@@ -20,7 +32,6 @@
       <img src="https://skillicons.dev/icons?i=github&theme=dark" height="45" alt="GitHub"/>
     </a>
   </p>
-  
   <img src="https://komarev.com/ghpvc/?username=Jeicrow&style=flat-square&color=blue&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
