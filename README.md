@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Jeicrow/Jeicrow/assets/64804177/d5eb6d65-7ab9-43d2-aeef-1c213564f369" width="100%" style="border-radius: 4px; filter: contrast(1.1) brightness(0.9);" alt="Gothic Banner" />
+  <img src="https://github.com/user-attachments/assets/a11fc699-30be-4783-b9b7-a188e6152c9f" width="100%" style="border-radius: 4px; filter: contrast(1.1) brightness(0.9);" alt="Gothic Banner" />
 
   <br/><br/>
 
