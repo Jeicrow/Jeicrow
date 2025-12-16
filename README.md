@@ -9,13 +9,15 @@
 
 <p align="center">
     <a href="https://linkedin.com/in/jeison-vasquez" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45" alt="LinkedIn"/>
     </a>
+    &nbsp;
     <a href="https://instagram.com/jeicrow" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+      <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="45" alt="Instagram"/>
     </a>
+    &nbsp;
     <a href="https://github.com/Jeicrow" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Github"/>
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" height="45" alt="GitHub"/>
     </a>
   </p>
   
