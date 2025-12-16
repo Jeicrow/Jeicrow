@@ -42,9 +42,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/30636259/137604471-f529f7e8-0388-43d9-a477-805177a66c4d.png" width="100%" style="opacity: 0.5;" />
-</div>
 
 ### 🕯️ About Me
 
@@ -94,9 +91,6 @@ My code exists between the darkness of the backend and the light of the frontend
 
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/30636259/137604471-f529f7e8-0388-43d9-a477-805177a66c4d.png" width="100%" style="opacity: 0.5;" />
-</div>
 
 ### 🩸 Vital Statistics
 
